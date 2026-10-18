@@ -23,6 +23,13 @@ I am a 15 year old **Web & CLI Developer** focused on building fast, automated t
 
 ---
 
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://vercel.app" width="48.5%" alt="Okami's Stats" />
+  <img src="https://vercel.app" width="48.5%" alt="Top Languages" />
+</p>
+
 ### 📫 Connect with me
 
 <p align="left">
