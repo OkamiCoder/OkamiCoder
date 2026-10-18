@@ -27,6 +27,6 @@ I am a 15-year-old **Web & CLI Developer** focused on building fast, automated t
 
 <p align="left">
   <a href="https://t.me/OkamiCoder" target="_blank">
-    <img src="https://shields.io/Telegram" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
