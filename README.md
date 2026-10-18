@@ -1,4 +1,3 @@
-<!-- КАРТИНКА 1: Главный баннер профиля -->
 <p align="center">
   <img src="./banner.jpg" alt="Okami Banner" width="100%">
 </p>
@@ -24,23 +23,10 @@ I am a 15-year-old **Web & CLI Developer** focused on building fast, automated t
 
 ---
 
-### 📊 GitHub Analytics
-
-<!-- КАРТИНКИ 2 и 3: Динамические карточки статистики в одном ряду -->
-<p align="center">
-  <img src="https://vercel.app<ТВОЙ_НИК_НА_GITHUB>&show_icons=true&theme=radical&rank_icon=github" width="48.5%" alt="Okami's Stats" />
-  <img src="https://vercel.app<ТВОЙ_НИК_НА_GITHUB>&layout=compact&theme=radical" width="48.5%" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://t.me<ТВОЙ_ЮЗЕРНЕЙМ_ТГ>" target="_blank">
-    <img src="https://shields.io" alt="Telegram" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://shields.io" alt="Discord" />
+  <a href="https://t.me/OkamiCoder" target="_blank">
+    <img src="https://shields.io/Telegram" alt="Telegram" />
   </a>
 </p>
