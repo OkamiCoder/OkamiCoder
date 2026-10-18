@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpg" alt="Okami Banner" width="100%">
+  <img src="./banner.jpg" alt="Okami Banner" width="70%">
 </p>
 
 # 👋 Hi there, I'm Okami!
