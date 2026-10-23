@@ -25,8 +25,14 @@ I am a 15 year old **Web & CLI Developer** focused on building fast, automated t
 
 ### 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OkamiCoder&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkamiCoder&layout=compact&theme=radial)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OkamiCoder&show_icons=true&theme=tokyonight&hide_border=true" alt="OkamiCoder's GitHub stats" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=OkamiCoder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkamiCoder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ### 📫 Connect with me
 
