@@ -27,7 +27,6 @@ I am a 15 year old **Web & CLI Developer** focused on building fast, automated t
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OkamiCoder&show_icons=true&theme=tokyonight&hide_border=true" alt="OkamiCoder's GitHub stats"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OkamiCoder&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
 
 <p align="center">
