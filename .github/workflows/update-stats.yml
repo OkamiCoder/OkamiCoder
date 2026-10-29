@@ -2,18 +2,18 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 3 * * *" 
-  workflow_dispatch: 
+    - cron: "0 3 * * *"
+  workflow_dispatch:
 
 permissions:
-  contents: write 
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
