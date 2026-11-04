@@ -8,7 +8,7 @@ I am a 15 year old **Web & CLI Developer** focused on building fast, automated t
 
 ---
 
-### 🚀 What i Do
+### 🚀 What I Do
 - 🌐 **Web Development:** Creating responsive frontend interfaces and basic backend systems.
 - 💻 **CLI Tools:** Designing powerful Command Line Interfaces to automate tasks and build utilities.
 - ⚡ **Current Focus:** Leveling up software architecture, learning performance optimization, and open-source.
