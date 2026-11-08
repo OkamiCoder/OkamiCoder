@@ -2,7 +2,7 @@
   <img src="./banner.jpg" alt="Okami Banner" width="75%">
 </p>
 
-# 👋 Hi there, I'm Okami!
+# 👋 Hi there, I am Okami!
 
 I am a 15 year old **Web & CLI Developer** focused on building fast, automated tools and clean user interfaces. I love writing code that optimizes workflows, runs smoothly in the terminal, or powers modern web platforms.
 
