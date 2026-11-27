@@ -13,7 +13,7 @@ I am a 16 year old **Web & CLI Developer** focused on building fast, automated t
 - 💻 **CLI Tools:** Designing powerful Command Line Interfaces to automate tasks and build utilities.
 - ⚡ **Current Focus:** Leveling up software architecture, learning performance optimization, and open-source.
 
----
+--- 
 
 ### 🧰 Tech Stack & Tools
 
