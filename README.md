@@ -16,7 +16,7 @@ I am a 16 year old **Web & CLI Developer** focused on building fast, automated t
 ---  
 
 ### 🧰 Tech Stack & Tools
-
+ 
 - **Languages:** JavaScript, Bash, Python.
 - **Web Tech:** HTML5, CSS, VueJS
 - **Tools & OS:** Git, CachyOs, Docker, VS Code, Vim, Zed
